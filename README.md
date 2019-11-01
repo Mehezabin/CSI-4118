@@ -1,6 +1,6 @@
-#Computer Networks Protocol
+# Computer Networks Protocol
 
-Contents
+Contents:
 * TCP/IP
 * Congestion control
 * Application Layer
